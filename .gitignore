@@ -1,4 +1,4 @@
 node_modules
 .next
-# create-next-app used to ignore only local env files
-.env*.local
+.env*
+!.env.example
